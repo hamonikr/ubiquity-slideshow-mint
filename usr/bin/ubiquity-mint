@@ -1,0 +1,14 @@
+#!/usr/bin/python3
+import os, time, xapp.os
+
+# Sleep for a minute (to make sure the DE is full loaded)
+time.sleep(60)
+
+try:
+    # Kill the screensaver
+    if xapp.os.is_live_session():
+        os.system("killall cinnamon-screensaver")
+        os.system("killall mate-screensaver")
+        os.system("killall light-locker")
+except:
+    pass

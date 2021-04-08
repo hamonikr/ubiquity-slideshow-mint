@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Live configuration
+Comment=Live configuration
+Icon=ubiquity
+Exec=ubiquity-mint
+Terminal=false
+Type=Application
+NoDisplay=true

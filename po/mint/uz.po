@@ -1,0 +1,341 @@
+# Uzbek translation for linuxmint
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2018-11-20 18:18+0000\n"
+"PO-Revision-Date: 2020-01-05 15:25+0000\n"
+"Last-Translator: Umidjon Almasov <Unknown>\n"
+"Language-Team: Uzbek <uz@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2021-01-02 14:10+0000\n"
+"X-Generator: Launchpad (build 34b3ffd45c9543b7f7aa5aa313925241e9e7ca3f)\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/chat.html:1
+msgid "Stay connected"
+msgstr "Алоқада бўлинг"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/chat.html:8
+msgid ""
+"Keep in touch with your friends and contacts, by email, IRC or on your "
+"favorite social networks. Linux Mint provides all you need to interact with "
+"Skype, WhatsApp, Facebook, Twitter, Slack, Telegram, Viber, Discord and many "
+"other networks."
+msgstr ""
+"Дўстларингиз билан электрон почта, IRC ёки Сиз ёқтирган ижтимоий тармоқлар "
+"орқали алоқада бўлинг. Linux Mint Skype, WhatsApp, Facebook, Twitter, Slack, "
+"Telegram, Viber, Discord ва кўплаб бошқа тармоқлар орқали ўзаро алоқа қилиш "
+"учун нима керак бўлса беради."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/mint/slides/chat.html:12 slideshows/mint/slides/music.html:12
+#: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
+#: slideshows/mint/slides/software.html:12 slideshows/mint/slides/video.html:12
+#: slideshows/mint/slides/windows.html:12
+msgid "Featured software"
+msgstr "Танланган дастурлар"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:16
+msgid "Skype"
+msgstr "Skype"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:20
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:24
+msgid "Slack"
+msgstr "Slack"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/chat.html:28
+msgid "Telegram"
+msgstr "Telegram"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/customize.html:1
+msgid "Customize your desktop"
+msgstr "Иш столини ўзингизга мосланг"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/customize.html:8
+msgid ""
+"Make yourself at home and modify any aspect of your desktop. Choose from a "
+"large variety of themes, icons and backgrounds. Linux Mint is open and easy "
+"to customize."
+msgstr ""
+"Ўзингизни ўз уйингиздагидек ҳис қилинг ва иш столини ўзингиз ҳоҳлагандек "
+"ўзгартиринг. Кўп сондаги ташқи кўриниш учун мўлжалланган мавзулардан "
+"расмчаларни ва фон расмларини танланг. Linux Mint очиқ ва уни ўз "
+"ҳоҳишингизга қараб созлаш жуда осон."
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/help.html:1
+msgid "Find help"
+msgstr "Ёрдам изланг"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/help.html:8
+msgid ""
+"If you're curious about something or if you're facing a problem, simply ask "
+"around. Linux Mint is one of the most popular desktop Linux distributions "
+"and used by millions of people. It comes with a user guide, a community "
+"website, a collection of tutorials, active forums and chat rooms and one of "
+"the most dynamic communities on the Internet."
+msgstr ""
+"Агар қизиқувчан бўлсангиз ёки қандайдир муаммога дуч келсангиз уялмасдан "
+"бошқалардан сўранг.   Linux Mint линукс оиласига мансуб операцион тизимлар "
+"ичида энг оммабопларидан бири ва уни миллионлаб одамлар ўз компьютерларига "
+"ўрнатишган. У фойдаланувчи учун қўлланмага, фойдаланувчилар веб саҳифасига, "
+"дарсликлар тўпламига ҳамда фаол форум ва суҳбатлашиш учун интернет чатларига "
+"эга. Ундан фойдаланаётган инсонлар сони кундан кунга ортиб бормоқда."
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/music.html:1
+msgid "Listen to music"
+msgstr "Мусиқа тингланг"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/music.html:8
+msgid "Enjoy your music, listen to podcasts and online radios."
+msgstr ""
+"Мусиқа тинглаб роҳатланинг, сақланган эшиттиришлар ва онлайн радиони эшитинг."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/music.html:16
+msgid "Spotify"
+msgstr "Spotify"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/music.html:20
+msgid "Rhythmbox"
+msgstr "Rhythmbox"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/office.html:1
+msgid "Be productive"
+msgstr "Самарали бўлинг"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/office.html:8
+msgid ""
+"Use LibreOffice to create professional documents, spreadsheets and "
+"presentations that are fully compatible with Microsoft Office. Share "
+"printers or access them remotely."
+msgstr ""
+"LibreOffice ёрдамида Microsoft Office билан тўлиқ мос келувчи хужжат, жадвал "
+"ва намойишлар яратинг. Принтерлардан бошқалар ишлашига имкон беринг ёки "
+"уларга масофадан туриб мурожат қилиш имконига эга бўлинг."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:16
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:20
+msgid "LibreOffice Calc"
+msgstr "LibreOffice Calc"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr "LibreOffice Impress"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:28
+msgid "LibreOffice Draw"
+msgstr "LibreOffice Draw"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/office.html:32
+msgid "LibreOffice Base"
+msgstr "LibreOffice Base"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/photos.html:1
+msgid "Manage your photos"
+msgstr "Фотосуратларни бошқаринг"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/photos.html:8
+msgid ""
+"Organize, enjoy and share your photos. Export your albums to share them with "
+"friends and family."
+msgstr ""
+"Фотосуратларингизни жамланг ва бошқаларга улашинг. Дўстларингиз ва оилангиз "
+"кўриши учун альбомларингизни экспорт қилинг."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/photos.html:16
+msgid "Pix"
+msgstr "Pix"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/photos.html:20
+msgid "Gimp"
+msgstr "Gimp"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/photos.html:24
+msgid "Inkscape"
+msgstr "Inkscape"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/software.html:1
+msgid "Install software"
+msgstr "Дастурларни ўрнатинг"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/software.html:8
+msgid ""
+"Browse through 30,000 free applications from the Software Manager. Enjoy "
+"screenshots and user reviews. Install software with one click of the mouse."
+msgstr ""
+"Дастурлар менежери орқали 30000 дан кўпроқ эркин иловаларни варақланг. Бошқа "
+"фойдаланувчилар томонидан яратилган экран кўринишлари ва фикрлар билан "
+"танишинг. Сичқонча тугмасини бир марта босиб дастурларни тизимга ўрнатинг."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:16
+msgid "Steam"
+msgstr "Steam"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:20
+msgid "Minecraft"
+msgstr "Minecraft"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:24
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/software.html:28
+msgid "Blender"
+msgstr "Blender"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/updates.html:1
+msgid "Keep your system up to date"
+msgstr "Тизимни янгиланган ҳолда тутинг"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/updates.html:8
+msgid ""
+"Receive fixes and security updates all in one place, for the entire system, "
+"including the software you install."
+msgstr ""
+"Бутун тизим бўйича хамда сиз тизимга ўрнатган дастурлардаги хатоларни "
+"бартараф этувчи созламалар ва ҳавфсизлик бўйича янгиликларни ягона усулда "
+"олиб туринг."
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/video.html:1
+msgid "Watch movies and videos"
+msgstr "Кино ва видео томоша қилинг"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/video.html:8
+msgid ""
+"Enjoy a high-definition movie or a video with VLC and the Media Player. All "
+"modern codecs are supported."
+msgstr ""
+"Юқори аниқликдаги кино ва видеодан VLC ва Media Player ёрдамида роҳатланинг. "
+"Барча замонавий кодеклар қўллаб-қувватланади."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/video.html:16
+msgid "VLC"
+msgstr "VLC"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/video.html:20
+msgid "Media Player"
+msgstr "Media Player"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/web.html:1
+msgid "Browse the web"
+msgstr "Интернетни варақланг"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/web.html:8
+msgid ""
+"Be fast and safe on the web with Mozilla Firefox. Watch your favorite shows "
+"on Netflix and YouTube."
+msgstr ""
+"Mozilla Firefox билан интернетни тез ва хавфсиз варақланг. Netflix ва "
+"YouTubeда севимли қўрсатувларни томоша қилинг."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/mint/slides/web.html:12
+msgid "Featured software and services"
+msgstr "Танланган дастурлар ва хизматлар"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/web.html:16
+msgid "Firefox"
+msgstr "Firefox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/web.html:22
+msgid "Netflix"
+msgstr "Netflix"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/web.html:28
+msgid "YouTube"
+msgstr "YouTube"
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/welcome.html:1
+msgid "Welcome to Linux Mint"
+msgstr "Linux Mint га хуш келибсиз"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/welcome.html:8
+msgid ""
+"Welcome and thank you for choosing Linux Mint. This slideshow will show you "
+"around while the system is being installed on your computer."
+msgstr ""
+"Хуш келибсиз ва Linux Mint ни танлаганингиз учун ташаккур. Ушбу слайд-шоу "
+"компьютерга тизим ўрнагунча сизга тизим имкониятлари ҳақида маълумотларни "
+"кўрсатиб туради."
+
+#. type: Content of: <div><h1>
+#: slideshows/mint/slides/windows.html:1
+msgid "Run Windows software"
+msgstr "Windows дастурларни ишга туширинг"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/windows.html:8
+msgid ""
+"Install Wine and run Windows software in Linux Mint. Or install Virtualbox, "
+"and run Windows itself within Linux Mint."
+msgstr ""
+"Wine ни тизимга ўрнатиб Windows тизими учун яратилган дастурларни Linux Mint "
+"да ишга туширинг. Ёки Virtualbox ни тизимга ўрнатиб Windows тизимини Linux "
+"Mint муҳитида ишга туширинг."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/windows.html:16
+msgid "Virtualbox"
+msgstr "Virtualbox"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/mint/slides/windows.html:20
+msgid "Wine"
+msgstr "Wine"
