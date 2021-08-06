@@ -112,6 +112,9 @@ msgstr "스포티파이"
 msgid "Rhythmbox"
 msgstr "리듬박스"
 
+msgid "lollypop"
+msgstr "롤리팝"
+
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/office.html:1
 msgid "Be productive"

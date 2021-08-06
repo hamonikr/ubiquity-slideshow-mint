@@ -1,3 +1,9 @@
+ubiquity-slideshow-mint (70mint45+hamonikr4) public; urgency=medium
+
+  * Change Image & HTML, CSS code
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 06 Aug 2021 19:07:19 +0900
+
 ubiquity-slideshow-mint (70mint45+hamonikr3) public; urgency=medium
 
   * Release for HamoniKR 5.0

@@ -84,9 +84,9 @@ strong {
 	position:absolute;
 	
 	z-index:100;
-	top:218px;
-	height:64px;
-	width:33px;
+	top:190px;
+	height:60px;
+	width:29px;
 	
 	background-repeat:no-repeat;
 	cursor:pointer;
@@ -95,10 +95,10 @@ strong {
 	cursor:default;
 }
 .control-arrow:hover {
-	background-position: 0px -65px;
+	background-position: 0px -60px;
 }
 .control-arrow:active {
-	background-position: 0px -130px;
+	background-position: 0px -120px;
 }
 .control-arrow#prev-slide {
 	background-image:url('arrow-back.png');
@@ -106,16 +106,19 @@ strong {
 }
 .control-arrow#next-slide {
 	background-image:url('arrow-next.png');
-	left:719px; /* 752px - 33px */
+	left:723px; /* 752px - 33px */
 }
 
+
 /* Fixed container for a slide's title */
-.header {
-	display:table; /* this is a bit evil, but it lets us vertically centre stuff */
-	position:absolute;
-	/* FIXME: better to use position:relative here and for #main.
+ /* this is a bit evil, but it lets us vertically centre stuff */
+ 	/* FIXME: better to use position:relative here and for #main.
 	   Need to have a specific maximum height, though,
 	   which isn't working with display:table */
+/* .header {
+	display:table;
+	position:absolute;
+
 	top:0px;
 	width:100%;
 	height:68px;
@@ -134,11 +137,11 @@ strong {
 }
 .header > .slidetitle img {
 	display: block;
-}
+} */
 
 .main {
 	position:absolute;
-	top:70px; /* 68px + 2px margin */
+	top:2px; /* 68px + 2px margin */
 	bottom:2px;
 	left:2px;
 	right:2px;
@@ -160,12 +163,41 @@ strong {
 A slide's body text goes inside here.
 Inner space is 224px wide.
 */
+
+/* welcome page */
+.main > .slide-text1 {
+	position:absolute;
+	z-index:10;
+	top:187px;
+	left:308px;
+	width:55%;
+	bottom:35px;
+	min-height:329px;
+	overflow:auto;
+	font-size:24px;
+	line-height:normal;
+}
+
+.main > .slide-text2 {
+	position:absolute;
+	z-index:10;
+	top:230px;
+	left:308px;
+	width:300px;
+	bottom:35px;
+	min-height:329px; /* 369 - 25 - 15 (for bottom) */
+	overflow:auto;
+	font-size:14px;
+	line-height: 180%;
+}
+
+
 .main > .text {
 	position:absolute;
 	z-index:10;
 	top:25px;
 	left:36px;
-	width:248px;
+	width:300px;
 	bottom:35px;
 	min-height:329px; /* 369 - 25 - 15 (for bottom) */
 	overflow:auto;
@@ -174,19 +206,18 @@ Inner space is 224px wide.
 .text > div {
 	margin-bottom:8px;
 	padding:6px 12px;
-	background-color:#F7F6F6;
+	color: white;
 }
 .text > div:last-child {
 	margin-bottom:0px;
 }
 
 .text > div > .subtitle {
-	padding-bottom:2px;
+	padding-bottom:10px;
 	margin-bottom:5px;
-	font-size:inherit;
-	font-weight:normal;
+	font-size:17px;
+	font-weight:bold;
 	text-decoration:none;
-	border-bottom:#333333 dotted 1px;
 }
 
 .main.wide > .text {
@@ -202,6 +233,34 @@ Inner space is 224px wide.
 	text-shadow:1px 1px 2px #333333;
 }
 
+.main-featured {
+	position:absolute;
+	top:40px;
+	left:12px;
+}
+
+.main-featured .maintitle {
+	padding-bottom:10px;
+	margin-bottom:5px;
+	font-size:19px;
+	font-weight:bold;
+	color : #383F4D;
+	text-decoration:none;
+	line-height:normal;
+}
+
+.main-featured .maintext {
+	font-size:14px;
+	width:240px;
+}
+
+.featured {
+	position:absolute;
+	top:240px;
+	/* top:220px; */
+	left:12px;
+}
+
 .featured ul {
 	display:table;
 }
@@ -213,19 +272,24 @@ Inner space is 224px wide.
 }
 .featured li .icon {
 	display:table-cell;
-	width:24px;
 	height:auto;
-	padding-right:12px;
+	padding-right:4px;
 }
 .featured li .caption {
 	display:table-cell;
 	vertical-align:middle;
+	padding-right:15px;
+}
+/* office font size*/
+.featured li .caption2 {
+	display:table-cell;
+	vertical-align:middle;
+	font-size:10px;
 }
 
 /* Expects screenshot to be 448x304 px */
 .main > .screenshot {
 	position:absolute;
-	top:25px;
 	right:-2px; /* offsets 2px margin of .main */
 	
 	z-index:2;
