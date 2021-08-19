@@ -1,3 +1,9 @@
+ubiquity-slideshow-mint (70mint47+hamonikr4) public; urgency=medium
+
+  * Version up > apt policy
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 19 Aug 2021 15:30:24 +0900
+
 ubiquity-slideshow-mint (70mint45+hamonikr4) public; urgency=medium
 
   * Change Image & HTML, CSS code
