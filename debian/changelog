@@ -1,3 +1,9 @@
+ubiquity-slideshow-mint (70mint47+hamonikr5) public; urgency=medium
+
+  * Change contents ko.po file.
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 23 Aug 2021 11:27:49 +0900
+
 ubiquity-slideshow-mint (70mint47+hamonikr4) public; urgency=medium
 
   * Version up > apt policy
