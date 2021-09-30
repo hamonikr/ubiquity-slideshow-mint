@@ -1,3 +1,9 @@
+ubiquity-slideshow-mint (70mint47+hamonikr6) public; urgency=medium
+
+  * Update locale
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 30 Sep 2021 17:01:06 +0900
+
 ubiquity-slideshow-mint (70mint47+hamonikr5) public; urgency=medium
 
   * Change contents ko.po file.
