@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2018-11-20 18:18+0000\n"
-"PO-Revision-Date: 2018-12-27 22:12+0000\n"
+"PO-Revision-Date: 2021-07-29 16:25+0000\n"
 "Last-Translator: samson <Unknown>\n"
 "Language-Team: Amharic <am@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-01-02 14:10+0000\n"
-"X-Generator: Launchpad (build 34b3ffd45c9543b7f7aa5aa313925241e9e7ca3f)\n"
+"X-Launchpad-Export-Date: 2021-12-31 12:18+0000\n"
+"X-Generator: Launchpad (build adb364d6a74a28e7b95d51cd30446ec16160de6c)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -47,12 +47,12 @@ msgstr "ስካይፕ"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:20
 msgid "WhatsApp"
-msgstr ""
+msgstr "WhatsApp"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:24
 msgid "Slack"
-msgstr ""
+msgstr "Slack"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:28
@@ -150,7 +150,7 @@ msgstr "ነፃነት ቢሮ መሳያ"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:32
 msgid "LibreOffice Base"
-msgstr ""
+msgstr "LibreOffice Base"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1
@@ -260,11 +260,13 @@ msgid ""
 "Be fast and safe on the web with Mozilla Firefox. Watch your favorite shows "
 "on Netflix and YouTube."
 msgstr ""
+"በ ዌብ ላይ ፈጣን እና አስተማማኝ ይሁኑ በ ሞዚላ ፋየርፎክስ:  እርስዎ የሚወዱትን ትሪኢቶች በ ኔትፍሌክስ እና ዩቲዩብ "
+"ይመልከቱ:"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/web.html:12
 msgid "Featured software and services"
-msgstr ""
+msgstr "የ ወደፊት ሶፍትዌር እና ግልጋሎቶች"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:16

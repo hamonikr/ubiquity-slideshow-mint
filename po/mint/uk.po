@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2018-11-20 18:18+0000\n"
-"PO-Revision-Date: 2020-06-29 06:24+0000\n"
+"PO-Revision-Date: 2021-05-13 06:15+0000\n"
 "Last-Translator: Mykola Tkach <chistomov@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-01-02 14:10+0000\n"
-"X-Generator: Launchpad (build 34b3ffd45c9543b7f7aa5aa313925241e9e7ca3f)\n"
+"X-Launchpad-Export-Date: 2021-12-31 12:18+0000\n"
+"X-Generator: Launchpad (build adb364d6a74a28e7b95d51cd30446ec16160de6c)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -30,10 +30,10 @@ msgid ""
 "Skype, WhatsApp, Facebook, Twitter, Slack, Telegram, Viber, Discord and many "
 "other networks."
 msgstr ""
-"Зв'яжіться зі своїми друзями та контактами, електронною поштою, IRC або у "
-"ваших улюблених соціальних мережах. Linux Mint забезпечує все необхідне для "
-"взаємодії з Skype, WhatsApp, Facebook, Twitter, Slack, Telegram, Viber, "
-"Discord і багатьма іншими мережами."
+"Підтримуйте зв’язок зі своїми друзями та контактами електронною поштою, IRC "
+"або за допомогою ваших улюблених соціальних мереж. Linux Mint дає все "
+"необхідне для взаємодії зі Skype, WhatsApp, Facebook, Twitter, Slack, "
+"Telegram, Viber, Discord і багатьма іншими мережами."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/chat.html:12 slideshows/mint/slides/music.html:12
@@ -75,9 +75,9 @@ msgid ""
 "large variety of themes, icons and backgrounds. Linux Mint is open and easy "
 "to customize."
 msgstr ""
-"Почувайтеся як вдома та змінюйте будь-які аспекти Вашої стільниці. Вибирайте "
-"потрібне з великого розмаїття тем, піктограм та шпалер. Linux Mint — "
-"відкрита та легко налаштовувана система."
+"Почувайтесь як вдома, змінюйте будь-які аспекти Вашої стільниці. Обирайте "
+"потрібне з великого розмаїття тем, піктограм і шпалер. Linux Mint — відкрита "
+"й легко налаштовувана система."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/help.html:1
@@ -93,9 +93,9 @@ msgid ""
 "website, a collection of tutorials, active forums and chat rooms and one of "
 "the most dynamic communities on the Internet."
 msgstr ""
-"Якщо Вас щось зацікавило або Ви зіштовхнулися з проблемою, просто спитайте. "
-"Linux Mint це один з найпопулярніших дистрибутивів Лінукс для комп’ютерів й "
-"використовується мільйонами людей. Разом з дистрибутивом, Ви отримуєте: "
+"Якщо Вас щось зацікавило або Ви зіштовхнулися з проблемою, просто запитайте. "
+"Linux Mint це один з найпопулярніших дистрибутивів Лінукс для комп’ютерів і "
+"використовується мільйонами людей. Разом із дистрибутивом, Ви отримуєте: "
 "посібник користувача, вебсайт спільноти, набір навчальних матеріалів, "
 "активні форуми та чат-кімнати, а також одну з найдинамічніше розвиваних "
 "спільнот в Інтернеті."
@@ -108,7 +108,7 @@ msgstr "Слухайте музику"
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/music.html:8
 msgid "Enjoy your music, listen to podcasts and online radios."
-msgstr "Насолоджуйтеся музикою, слухайте подкасти та інтернет-радіо."
+msgstr "Насолоджуйтеся музикою, слухайте подкасти та радіо в Інтернеті."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/music.html:16
@@ -132,9 +132,10 @@ msgid ""
 "presentations that are fully compatible with Microsoft Office. Share "
 "printers or access them remotely."
 msgstr ""
-"Використовуйте LibreOffice для створення професійно оформлених документів, "
+"Використовуйте LibreOffice для створення професійно опрацьованих документів, "
 "електронних таблиць і презентацій, які повністю сумісні з Microsoft Office. "
-"Спільне використання принтерів або віддалений до них доступ."
+"Надавайте доступ до принтерів для спільного використання або під'єднуйтеся "
+"до них віддалено."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
@@ -164,7 +165,7 @@ msgstr "LibreOffice Base"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1
 msgid "Manage your photos"
-msgstr "Впорядковуйте свої фото"
+msgstr "Впорядковуйте свої світлини"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/photos.html:8
@@ -172,8 +173,8 @@ msgid ""
 "Organize, enjoy and share your photos. Export your albums to share them with "
 "friends and family."
 msgstr ""
-"Продивляйтеся, впорядковуйте та здійснюйте обмін Вашими світлинами. "
-"Експортуйте Ваші альбоми, роблячи їх доступними для своїх друзів та близьких."
+"Продивляйтеся, впорядковуйте та здійснюйте обмін своїми світлинами. "
+"Експортуйте Ваші альбоми роблячи їх доступними для своїх друзів і близьких."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/photos.html:16
@@ -201,8 +202,8 @@ msgid ""
 "Browse through 30,000 free applications from the Software Manager. Enjoy "
 "screenshots and user reviews. Install software with one click of the mouse."
 msgstr ""
-"Вибирайте потрібну з 30,000 вільних програм у «Менеджері програм». "
-"Переглядайте знімки екрану та рецензії користувачів і встановлюйте програми "
+"Обирайте потрібний з 30,000 вільних застосунків у «Упоряднику програм». "
+"Переглядайте знятки екрану та рецензії користувачів і встановлюйте програми "
 "одним клацанням миші."
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -236,8 +237,8 @@ msgid ""
 "Receive fixes and security updates all in one place, for the entire system, "
 "including the software you install."
 msgstr ""
-"Отримуйте усі виправлення та оновлення безпеки в одному місці для всієї "
-"системи та для встановлених Вами програм."
+"Отримуйте одночасно всі оновлення операційної системи та програм з одного "
+"джерела, зокрема застосунків встановлених Вами власноруч."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/video.html:1
@@ -250,8 +251,8 @@ msgid ""
 "Enjoy a high-definition movie or a video with VLC and the Media Player. All "
 "modern codecs are supported."
 msgstr ""
-"Насолоджуйтесь фільмом високої чіткості або відео з VLC та Програвачем "
-"Медія. Усі сучасні кодеки підтримуються."
+"Насолоджуйтеся фільмами та відео переглядаючи їх з високою чіткістю за "
+"допомогою VLC і Програвача Медія. Усі сучасні кодеки підтримуються."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:16
@@ -274,13 +275,13 @@ msgid ""
 "Be fast and safe on the web with Mozilla Firefox. Watch your favorite shows "
 "on Netflix and YouTube."
 msgstr ""
-"Будьте швидкі та безпечні в Інтернеті за допомогою Mozilla Firefox. "
-"Переглядайте свої улюблені видовища на Netflix та YouTube."
+"Швидко подорожуйте та працюйте безпечно в Інтернеті за допомогою Mozilla "
+"Firefox. Переглядайте свої улюблені видовища на Netflix і YouTube."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/web.html:12
 msgid "Featured software and services"
-msgstr "Рекомендоване програмне забезпечення та послуги"
+msgstr "Рекомендоване програмне забезпечення та служби"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:16
@@ -314,7 +315,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/windows.html:1
 msgid "Run Windows software"
-msgstr "Запускайте програми Windows"
+msgstr "Запуск програм Windows"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/windows.html:8
@@ -322,8 +323,8 @@ msgid ""
 "Install Wine and run Windows software in Linux Mint. Or install Virtualbox, "
 "and run Windows itself within Linux Mint."
 msgstr ""
-"Встановіть Wine і запускайте програми Windows в Linux Mint або встановіть "
-"Virtualbox і запускайте саму Windows в середині Linux Mint."
+"Встановіть Wine та запускайте програми Windows у Linux Mint, або встановіть "
+"Virtualbox і запускайте саму Windows у середині Linux Mint."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/windows.html:16

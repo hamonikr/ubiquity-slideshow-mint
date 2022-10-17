@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2018-11-20 18:18+0000\n"
-"PO-Revision-Date: 2020-07-27 21:17+0000\n"
-"Last-Translator: Alberlan Lopes <alberlan@gmail.com>\n"
+"PO-Revision-Date: 2021-07-01 15:25+0000\n"
+"Last-Translator: Wellington Oliveira dos Santos <welblade@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-01-02 14:10+0000\n"
-"X-Generator: Launchpad (build 34b3ffd45c9543b7f7aa5aa313925241e9e7ca3f)\n"
+"X-Launchpad-Export-Date: 2021-12-31 12:18+0000\n"
+"X-Generator: Launchpad (build adb364d6a74a28e7b95d51cd30446ec16160de6c)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -30,10 +30,10 @@ msgid ""
 "Skype, WhatsApp, Facebook, Twitter, Slack, Telegram, Viber, Discord and many "
 "other networks."
 msgstr ""
-"Mantenha contato com seus amigos, por e-mail, IRC ou em suas redes sociais "
-"favoritas. Linux Mint fornece tudo que você precisa para interagir com o "
-"Skype, WhatsApp, Facebook, Twitter, Slack, Telegrama, Viber, Discord e "
-"muitas outras redes."
+"Mantenha contato com seus amigos por e-mail, IRC ou em suas redes sociais "
+"favoritas. O Linux Mint fornece tudo que você precisa para interagir com o "
+"Skype, WhatsApp, Facebook, Twitter, Slack, Telegram, Viber, Discord e muitas "
+"outras redes."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/chat.html:12 slideshows/mint/slides/music.html:12
@@ -41,7 +41,7 @@ msgstr ""
 #: slideshows/mint/slides/software.html:12 slideshows/mint/slides/video.html:12
 #: slideshows/mint/slides/windows.html:12
 msgid "Featured software"
-msgstr "Programas em Destaque"
+msgstr "Aplicativos em Destaque"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/chat.html:16
@@ -93,10 +93,10 @@ msgid ""
 "website, a collection of tutorials, active forums and chat rooms and one of "
 "the most dynamic communities on the Internet."
 msgstr ""
-"Se você está curioso sobre algo ou se você está enfrentando um problema, "
-"basta perguntar. Linux Mint é uma das distribuições Linux desktop mais "
+"Se você está curioso sobre alguma coisa ou se está enfrentando um problema, "
+"basta perguntar.  O Linux Mint é uma das distribuições GNU/Linux mais "
 "populares e usada por milhões de pessoas. Ela vem com um guia do usuário, um "
-"site da comunidade, uma coleção de tutoriais, fóruns ativos e salas de bate "
+"site de comunidade, uma coleção de tutoriais, fóruns ativos e salas de bate "
 "papo e uma das comunidades mais dinâmicas na Internet."
 
 #. type: Content of: <div><h1>
@@ -138,27 +138,27 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:16
 msgid "LibreOffice Writer"
-msgstr "LO Writer"
+msgstr "LibreOffice Writer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:20
 msgid "LibreOffice Calc"
-msgstr "LO Calc"
+msgstr "LibreOffice Calc"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:24
 msgid "LibreOffice Impress"
-msgstr "LO Impress"
+msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:28
 msgid "LibreOffice Draw"
-msgstr "LO Draw"
+msgstr "LibreOffice Draw"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/office.html:32
 msgid "LibreOffice Base"
-msgstr "LO Base"
+msgstr "LibreOffice Base"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/photos.html:1
@@ -182,7 +182,7 @@ msgstr "Pix"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/photos.html:20
 msgid "Gimp"
-msgstr "GIMP"
+msgstr "Gimp"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/photos.html:24
@@ -192,7 +192,7 @@ msgstr "Inkscape"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/software.html:1
 msgid "Install software"
-msgstr "Instale software"
+msgstr "Instale Aplicativos"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/software.html:8
@@ -201,8 +201,8 @@ msgid ""
 "screenshots and user reviews. Install software with one click of the mouse."
 msgstr ""
 "Navegue por mais de 30.000 aplicativos livres a partir do Gerenciador de "
-"Software. Aproveite as capturas de tela e as avaliações de usuários. Instale "
-"software com um clique do mouse."
+"Aplicativos. Aproveite as capturas de tela e as avaliações de usuários. "
+"Instale software com um clique do mouse."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/software.html:16
@@ -236,7 +236,7 @@ msgid ""
 "including the software you install."
 msgstr ""
 "Receba correções e atualizações de segurança em um só lugar, para todo o "
-"sistema, incluindo os programas instalados por você."
+"sistema, incluindo para os aplicativos instalados por você."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/video.html:1
@@ -249,7 +249,7 @@ msgid ""
 "Enjoy a high-definition movie or a video with VLC and the Media Player. All "
 "modern codecs are supported."
 msgstr ""
-"Desfrute de um filme de alta definição ou um vídeo com o VLC e o Media "
+"Desfrute de um filme em alta definição ou um vídeo com o VLC e o Media "
 "Player. Todos os codecs modernos são suportados."
 
 #. type: Content of: <div><div><div><ul><li><p>
@@ -265,7 +265,7 @@ msgstr "Reprodutor de Mídia"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/web.html:1
 msgid "Browse the web"
-msgstr "Navegar na Internet"
+msgstr "Navegue na Internet"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/web.html:8
@@ -273,13 +273,13 @@ msgid ""
 "Be fast and safe on the web with Mozilla Firefox. Watch your favorite shows "
 "on Netflix and YouTube."
 msgstr ""
-"Seja rápido e seguro na web com o Mozilla Firefox. Assista seus programas "
-"favoritos no Netflix e no YouTube."
+"Seja rápido e esteja seguro na internet com o Mozilla Firefox. Assista seus "
+"programas favoritos na Netflix e no YouTube."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/web.html:12
 msgid "Featured software and services"
-msgstr "Software e serviços em destaque"
+msgstr "Aplicativos e serviços em destaque"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/web.html:16
@@ -299,7 +299,7 @@ msgstr "YouTube"
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/welcome.html:1
 msgid "Welcome to Linux Mint"
-msgstr "Bem-vindo(a) ao Mint GNU/Linux"
+msgstr "Bem-vindo(a) ao Linux Mint"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/mint/slides/welcome.html:8
@@ -307,8 +307,8 @@ msgid ""
 "Welcome and thank you for choosing Linux Mint. This slideshow will show you "
 "around while the system is being installed on your computer."
 msgstr ""
-"Bem-vindo(a) e obrigado por escolher o Linux Mint. A apresentação de slides "
-"fará um tour pelo sistema enquanto ele é instalado em seu computador."
+"Bem-vindo(a) e obrigado por escolher o Linux Mint. Esta apresentação de "
+"slides fará um tour pelo sistema enquanto ele é instalado em seu computador."
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/windows.html:1

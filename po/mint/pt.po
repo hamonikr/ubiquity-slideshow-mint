@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2018-11-20 18:18+0000\n"
-"PO-Revision-Date: 2020-05-14 22:30+0000\n"
+"PO-Revision-Date: 2021-09-05 16:32+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2021-01-02 14:10+0000\n"
-"X-Generator: Launchpad (build 34b3ffd45c9543b7f7aa5aa313925241e9e7ca3f)\n"
+"X-Launchpad-Export-Date: 2021-12-31 12:18+0000\n"
+"X-Generator: Launchpad (build adb364d6a74a28e7b95d51cd30446ec16160de6c)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/mint/slides/chat.html:1
@@ -249,9 +249,8 @@ msgid ""
 "Enjoy a high-definition movie or a video with VLC and the Media Player. All "
 "modern codecs are supported."
 msgstr ""
-"Desfrute de um filme em alta definição ou de um vídeo com o Celluloid, VLC "
-"ou outro reprodutor multimédia. Todos os codificadores modernos são "
-"suportados."
+"Desfrute de um filme ou vídeo em alta definição com o Celluloid, MPV, VLC ou "
+"outro reprodutor multimédia. Todos os codificadores modernos são suportados."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/mint/slides/video.html:16
@@ -274,8 +273,8 @@ msgid ""
 "Be fast and safe on the web with Mozilla Firefox. Watch your favorite shows "
 "on Netflix and YouTube."
 msgstr ""
-"Seja rápido e seguro na web com o Mozilla Firefox. Assista os seus programas "
-"favoritos no Netflix e no YouTube."
+"Seja rápido e seguro na web com o Mozilla Firefox. Assista aos seus "
+"programas favoritos na Netflix e no YouTube."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/mint/slides/web.html:12
