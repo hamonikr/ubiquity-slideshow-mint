@@ -30,7 +30,7 @@ html, body {
 	
 	background-color:#F7F6F6;
 	
-	font-family:'Ubuntu', 'UbuntuBeta', sans-serif;
+	font-family:'Pretendard Regular';
 	font-size:12px;
 	line-height:1.4em;
 	
@@ -203,10 +203,43 @@ Inner space is 224px wide.
 	overflow:auto;
 }
 
+.welcome-wrap {
+	width:100%;
+	position:relative;
+} 
+
+.welcome-wrap img {
+	width:100%;
+	vertical-align:middle;
+}
+
+.welcome {
+	position:absolute;
+	color:white;
+	top:12%;
+	width:100%;
+	font-size:27px;
+	font-weight:bold;
+	text-align: center;
+}
+
+.welcome2 {
+	position:absolute;
+	top:19%;
+	width:100%;
+	color:black;
+	font-size:13px;
+	text-align: center;
+}
+
+.fw-900 {
+	font-weight:900;
+}
+
 .text > div {
 	margin-bottom:8px;
 	padding:6px 12px;
-	color: white;
+	color: #383f4d;
 }
 .text > div:last-child {
 	margin-bottom:0px;
@@ -240,18 +273,30 @@ Inner space is 224px wide.
 }
 
 .main-featured .maintitle {
+	padding-top:20px;
 	padding-bottom:10px;
 	margin-bottom:5px;
-	font-size:19px;
+	font-size:20px;
 	font-weight:bold;
-	color : #383F4D;
+	color : #1c2128;
 	text-decoration:none;
 	line-height:normal;
 }
 
 .main-featured .maintext {
-	font-size:14px;
-	width:240px;
+	padding-top:2px;
+	font-size:13px;
+	font-weight:bold;
+	line-height: 1.5;
+	width:270;
+}
+
+.main-featured .maintext2 {
+	padding-top:2px;
+	font-size:11px;
+	font-weight:bold;
+	line-height: 1.5;
+	width:270;
 }
 
 .featured {
@@ -268,7 +313,7 @@ Inner space is 224px wide.
 	display:table-row;
 }
 .featured li > * {
-	padding-bottom:12px;
+	padding-top:20px;
 }
 .featured li .icon {
 	display:table-cell;
@@ -278,7 +323,9 @@ Inner space is 224px wide.
 .featured li .caption {
 	display:table-cell;
 	vertical-align:middle;
-	padding-right:15px;
+	padding-right:25px;
+	font-size:13px;
+	font-weight:bold;
 }
 /* office font size*/
 .featured li .caption2 {

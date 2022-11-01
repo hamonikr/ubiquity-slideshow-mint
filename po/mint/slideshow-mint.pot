@@ -1,302 +1,300 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-20 18:18+0000\n"
+"POT-Creation-Date: 2022-11-01 20:09+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2019-12-11 11:50+0000\n"
-"X-Generator: Launchpad (build c597c3229eb023b1e626162d5947141bf7befb13)\n"
-"Language: \n"
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/chat.html:1
-msgid "Stay connected"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/chat.html:5
+msgid "Social Network"
 msgstr ""
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/chat.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/chat.html:7
+msgid "Contact your friends on social networks."
+msgstr ""
+
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/chat.html:9
 msgid ""
-"Keep in touch with your friends and contacts, by email, IRC or on your "
-"favorite social networks. Linux Mint provides all you need to interact with "
-"Skype, WhatsApp, Facebook, Twitter, Slack, Telegram, Viber, Discord and many "
-"other networks."
+"It provides an optimal environment for using many services such as Line, "
+"Zoom, Skype, Telegram, Slack, Facebook, and Twitter."
 msgstr ""
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/mint/slides/chat.html:12 slideshows/mint/slides/music.html:12
-#: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
-#: slideshows/mint/slides/software.html:12 slideshows/mint/slides/video.html:12
-#: slideshows/mint/slides/windows.html:12
-msgid "Featured software"
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/chat.html:19
+msgid "Line"
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/chat.html:16
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/chat.html:23
+msgid "Zoom"
+msgstr ""
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/chat.html:31
 msgid "Skype"
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/chat.html:20
-msgid "WhatsApp"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/chat.html:24
-msgid "Slack"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/chat.html:28
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/chat.html:35
 msgid "Telegram"
 msgstr ""
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/customize.html:1
-msgid "Customize your desktop"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/community.html:5
+msgid "HamoniKR Community"
 msgstr ""
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/customize.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/community.html:7
 msgid ""
-"Make yourself at home and modify any aspect of your desktop. Choose from a "
-"large variety of themes, icons and backgrounds. Linux Mint is open and easy "
-"to customize."
+"From the first installation to use, we provide manuals and videos for "
+"HamoniKR users."
 msgstr ""
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/help.html:1
-msgid "Find help"
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/community.html:9
+msgid "Ask the community any questions you have any questions."
 msgstr ""
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/help.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/community.html:11
 msgid ""
-"If you're curious about something or if you're facing a problem, simply ask "
-"around. Linux Mint is one of the most popular desktop Linux distributions "
-"and used by millions of people. It comes with a user guide, a community "
-"website, a collection of tutorials, active forums and chat rooms and one of "
-"the most dynamic communities on the Internet."
+"We can solve the problem with friendly and quick responses from community "
+"members."
 msgstr ""
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/music.html:1
-msgid "Listen to music"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/developer.html:5
+msgid "Advanced Users, Developers"
 msgstr ""
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/music.html:8
-msgid "Enjoy your music, listen to podcasts and online radios."
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/music.html:16
-msgid "Spotify"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/music.html:20
-msgid "Rhythmbox"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/office.html:1
-msgid "Be productive"
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/office.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/developer.html:7
 msgid ""
-"Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Share "
-"printers or access them remotely."
+"Depending on your environment, you can select the entire desktop "
+"environment, the default installation."
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/office.html:16
-msgid "LibreOffice Writer"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/office.html:20
-msgid "LibreOffice Calc"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/office.html:24
-msgid "LibreOffice Impress"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/office.html:28
-msgid "LibreOffice Draw"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/office.html:32
-msgid "LibreOffice Base"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/photos.html:1
-msgid "Manage your photos"
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/photos.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/developer.html:9
 msgid ""
-"Organize, enjoy and share your photos. Export your albums to share them with "
-"friends and family."
+"Additionally, it provides packages for advanced users and software "
+"developers."
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/photos.html:16
-msgid "Pix"
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/developer.html:11
+msgid "Create the right environment for yourself."
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/photos.html:20
-msgid "Gimp"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/multimedia.html:5
+msgid "Multimedia"
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/photos.html:24
-msgid "Inkscape"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/software.html:1
-msgid "Install software"
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/software.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/multimedia.html:7
 msgid ""
-"Browse through 30,000 free applications from the Software Manager. Enjoy "
-"screenshots and user reviews. Install software with one click of the mouse."
+"You can enjoy music management and highdefinition video that you enjoy "
+"listening to."
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/software.html:16
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/multimedia.html:9
+msgid ""
+"Enjoy high-resolution movies and videos with media players that support the "
+"latest codecs."
+msgstr ""
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/multimedia.html:19
+msgid "Lutris"
+msgstr ""
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/multimedia.html:25
+msgid "Kakaotalk"
+msgstr ""
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/multimedia.html:33
+msgid "Blizzard"
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/office.html:5
+msgid "Edit Document"
+msgstr ""
+
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/office.html:7
+msgid ""
+"You can create a variety of documents that are compatible with the MS Office "
+"with the LibreOffice."
+msgstr ""
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/office.html:17
+msgid "Writer"
+msgstr ""
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/office.html:21
+msgid "Calc"
+msgstr ""
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/office.html:29
+msgid "Impress"
+msgstr ""
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/office.html:33
+msgid "Draw"
+msgstr ""
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/software.html:5
+msgid "Software Search"
+msgstr ""
+
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/software.html:7
+msgid "Search and install 30,000 free software in Software Manager."
+msgstr ""
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/software.html:17
 msgid "Steam"
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/software.html:20
-msgid "Minecraft"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/software.html:24
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/software.html:21
 msgid "Dropbox"
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/software.html:28
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/software.html:29
+msgid "Spotify"
+msgstr ""
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/software.html:33
 msgid "Blender"
 msgstr ""
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/updates.html:1
-msgid "Keep your system up to date"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/warranty.html:5
+msgid "Warranty"
 msgstr ""
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/updates.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/warranty.html:7
+msgid "Telecommunications Technology Association(TTA)"
+msgstr ""
+
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/warranty.html:8
 msgid ""
-"Receive fixes and security updates all in one place, for the entire system, "
-"including the software you install."
+"In the test certification organized by the Software Test Certification "
+"Research Institute, it received the first grade of GS certification and was "
+"recognized for its excellent quality."
 msgstr ""
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/video.html:1
-msgid "Watch movies and videos"
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/warranty.html:10
+msgid "GS Certificates : ISO/IEC 25023, 25041, 25051"
 msgstr ""
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/video.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/warranty.html:11
 msgid ""
-"Enjoy a high-definition movie or a video with VLC and the Media Player. All "
-"modern codecs are supported."
+"Based on international standards, it is a test on functional suitability, "
+"performance efficiency, usability, reliability, security, etc."
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/video.html:16
-msgid "VLC"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/web.html:5
+msgid "Browsed the web"
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/video.html:20
-msgid "Media Player"
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/web.html:7
+msgid "Use the web quickly and safely with Naver Whale."
 msgstr ""
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/web.html:1
-msgid "Browse the web"
-msgstr ""
-
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><div><div><p>
 #: slideshows/mint/slides/web.html:8
-msgid ""
-"Be fast and safe on the web with Mozilla Firefox. Watch your favorite shows "
-"on Netflix and YouTube."
+msgid "There are also a variety of features available from Whale."
 msgstr ""
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/mint/slides/web.html:12
-msgid "Featured software and services"
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/web.html:11
+msgid "Try using a variety of web browsers that suit your style."
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/web.html:16
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/web.html:21
+msgid "Naver Whale"
+msgstr ""
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/web.html:27
+msgid "Chrome"
+msgstr ""
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/web.html:35
 msgid "Firefox"
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/web.html:22
-msgid "Netflix"
-msgstr ""
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/web.html:28
-msgid "YouTube"
-msgstr ""
-
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/welcome.html:1
-msgid "Welcome to Linux Mint"
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/welcome.html:7
+msgid "Welcome to the HamoniKR"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/welcome.html:8
-msgid ""
-"Welcome and thank you for choosing Linux Mint. This slideshow will show you "
-"around while the system is being installed on your computer."
+#: slideshows/mint/slides/welcome.html:10
+msgid "Meet the powerful and new features of the HamoniKR"
 msgstr ""
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/windows.html:1
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/windows.html:5
 msgid "Run Windows software"
 msgstr ""
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/windows.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/windows.html:7
 msgid ""
-"Install Wine and run Windows software in Linux Mint. Or install Virtualbox, "
-"and run Windows itself within Linux Mint."
+"Using Lutris, we support to run SW for Windows such as Blizzard games and "
+"KakaoTalk."
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/windows.html:16
-msgid "Virtualbox"
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/windows.html:17
+msgid "Lollypop"
 msgstr ""
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/windows.html:20
-msgid "Wine"
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/windows.html:23
+msgid "Celluloid"
+msgstr ""
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/windows.html:31
+msgid "VLC"
 msgstr ""

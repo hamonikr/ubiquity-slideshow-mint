@@ -7,312 +7,480 @@ msgid ""
 msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2018-11-20 18:18+0000\n"
-"PO-Revision-Date: 2021-08-26 11:10+0000\n"
+"POT-Creation-Date: 2022-11-01 19:38+0900\n"
+"PO-Revision-Date: 2022-11-01 19:54+0900\n"
 "Last-Translator: Jung-Kyu Park <bagjunggyu@gmail.com>\n"
 "Language-Team: Korean <ko@li.org>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2021-12-31 12:18+0000\n"
-"X-Generator: Launchpad (build adb364d6a74a28e7b95d51cd30446ec16160de6c)\n"
+"X-Generator: Poedit 2.3\n"
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/chat.html:1
-msgid "Stay connected"
-msgstr "소셜 네트워킹"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/chat.html:5
+msgid "Social Network"
+msgstr "소셜 네트워크"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/chat.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/chat.html:7
+msgid "Contact your friends on social networks."
+msgstr "소셜 네트워크로 친구들과 연락해보세요."
+
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/chat.html:9
 msgid ""
-"Keep in touch with your friends and contacts, by email, IRC or on your "
-"favorite social networks. HamoniKR provides all you need to interact with "
-"Skype, WhatsApp, Facebook, Twitter, Slack, Telegram, Viber, Discord and many "
-"other networks."
+"It provides an optimal environment for using many services such as Line, "
+"Zoom, Skype, Telegram, Slack, Facebook, and Twitter."
 msgstr ""
-"자주 사용하시는 소셜 네트워크로 친구들과 연락해보세요. 하모니카는 스카이프, 왓츠앱, 페이스북, 트위터, 슬랙, 텔레그램 등"
-" 이외에도 많은 서비스들을 사용하시는데 불편함이 없도록 모든 환경을 제공해 드리고 있습니다."
+"라인, 줌, 스카이프, 텔레그램, 슬랙, 페이스북, 트위터 등 많은 서비스를 사용하"
+"기 위한 최적의 환경을 제공합니다."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/mint/slides/chat.html:12 slideshows/mint/slides/music.html:12
-#: slideshows/mint/slides/office.html:12 slideshows/mint/slides/photos.html:12
-#: slideshows/mint/slides/software.html:12 slideshows/mint/slides/video.html:12
-#: slideshows/mint/slides/windows.html:12
-msgid "Featured software"
-msgstr "주요 소프트웨어"
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/chat.html:19
+msgid "Line"
+msgstr "라인"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/chat.html:16
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/chat.html:23
+msgid "Zoom"
+msgstr "줌"
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/chat.html:31
 msgid "Skype"
 msgstr "스카이프"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/chat.html:20
-msgid "WhatsApp"
-msgstr "왓츠앱"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/chat.html:24
-msgid "Slack"
-msgstr "슬랙"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/chat.html:28
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/chat.html:35
 msgid "Telegram"
 msgstr "텔레그램"
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/customize.html:1
-msgid "Customize your desktop"
-msgstr "데스크톱 개인화"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/community.html:5
+msgid "HamoniKR Community"
+msgstr "하모니카 커뮤니티"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/customize.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/community.html:7
 msgid ""
-"Make yourself at home and modify any aspect of your desktop. Choose from a "
-"large variety of themes, icons and backgrounds. HamoniKR is open and easy "
-"to customize."
-msgstr "하모니카에서 다양한 테마와 아이콘, 배경화면을 선택하여 자신만의 데스크톱을 꾸며보세요."
-
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/help.html:1
-msgid "Find help"
-msgstr "도움 받기"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/help.html:8
-msgid ""
-"If you're curious about something or if you're facing a problem, simply ask "
-"around. HamoniKR is one of the most popular desktop Linux distributions "
-"and used by millions of people. It comes with a user guide, a community "
-"website, a collection of tutorials, active forums and chat rooms and one of "
-"the most dynamic communities on the Internet."
+"From the first installation to use, we provide manuals and videos for "
+"HamoniKR users."
 msgstr ""
-"궁금한게 있거나 문제가 있을 때 언제든지 커뮤니티에 방문해서 물어보세요. "
-"하모니카는 리눅스를 이용하는 모든 사람들을 위한 커뮤니티 웹사이트와 사용자 가이드를 제공합니다."
+"처음 설치부터 사용까지, 하모니카 사용자를 위한 매뉴얼, 동영상을 제공하고 있습"
+"니다."
 
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/community.html:9
+msgid "Ask the community any questions you have any questions."
+msgstr "궁금한 점을 커뮤니티에 질문해보세요."
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/music.html:1
-msgid "Listen to music"
-msgstr "음악 듣기"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/music.html:8
-msgid "Enjoy your music, listen to podcasts and online radios."
-msgstr "음악을 듣고 즐겨보세요. 하모니카에서는 롤리팝이라는 새로운 음악 플레이어를 제공합니다."
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/music.html:16
-msgid "Spotify"
-msgstr "스포티파이"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/music.html:20
-msgid "Rhythmbox"
-msgstr "리듬박스"
-
-msgid "lollypop"
-msgstr "롤리팝"
-
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/office.html:1
-msgid "Be productive"
-msgstr "높은 생산성"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/office.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/community.html:11
 msgid ""
-"Use LibreOffice to create professional documents, spreadsheets and "
-"presentations that are fully compatible with Microsoft Office. Share "
-"printers or access them remotely."
+"We can solve the problem with friendly and quick responses from community "
+"members."
+msgstr "커뮤니티 회원들의 친절하고 빠른 답변으로 문제를 해결할 수 있습니다."
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/developer.html:5
+msgid "Advanced Users, Developers"
+msgstr "고급 사용자, 개발자"
+
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/developer.html:7
+msgid ""
+"Depending on your environment, you can select the entire desktop "
+"environment, the default installation."
+msgstr "사용자 환경에 따라 데스크톱 환경 전체, 기본 설치를 선택할 수 있습니다."
+
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/developer.html:9
+msgid ""
+"Additionally, it provides packages for advanced users and software "
+"developers."
 msgstr ""
-"리브레 오피스로 마이크로소프트 오피스와 완벽히 호환되는 다양한 문서들을 작성하고 공유해보세요."
+"추가로 고급 사용자를 위한 패키지와 소프트웨어 개발자를 위한 추가 패키지를 제"
+"공합니다."
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/office.html:16
-msgid "LibreOffice Writer"
-msgstr "리브레오피스 라이터"
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/developer.html:11
+msgid "Create the right environment for yourself."
+msgstr "자신에게 알맞은 환경을 구성해 보세요."
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/office.html:20
-msgid "LibreOffice Calc"
-msgstr "리브레오피스 칼크"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/multimedia.html:5
+msgid "Multimedia"
+msgstr "멀티미디어"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/office.html:24
-msgid "LibreOffice Impress"
-msgstr "리브레오피스 임프레스"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/office.html:28
-msgid "LibreOffice Draw"
-msgstr "리브레오피스 드로우"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/office.html:32
-msgid "LibreOffice Base"
-msgstr "리브레오피스 베이스"
-
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/photos.html:1
-msgid "Manage your photos"
-msgstr "사진 관리"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/photos.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/multimedia.html:7
 msgid ""
-"Organize, enjoy and share your photos. Export your albums to share them with "
-"friends and family."
-msgstr "하모니카에서 다양한 이미지를 활용하여 편집을 하고 공유해보세요."
+"You can enjoy music management and highdefinition video that you enjoy "
+"listening to."
+msgstr "즐겨듣는 음원 관리와 고화질 동영상을 즐길 수 있습니다."
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/photos.html:16
-msgid "Pix"
-msgstr "픽스"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/photos.html:20
-msgid "Gimp"
-msgstr "김프"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/photos.html:24
-msgid "Inkscape"
-msgstr "잉크스케이프"
-
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/software.html:1
-msgid "Install software"
-msgstr "소프트웨어 설치"
-
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/software.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/multimedia.html:9
 msgid ""
-"Browse through 30,000 free applications from the Software Manager. Enjoy "
-"screenshots and user reviews. Install software with one click of the mouse."
+"Enjoy high-resolution movies and videos with media players that support the "
+"latest codecs."
 msgstr ""
-"소프트웨어 매니저에서 3만개의 다양한 무료 소프트웨어를 쉽게 설치하실 수 있습니다."
-" 다양한 소프트웨어를 설치하고 실행해보세요."
+"최신 코덱을 지원하는 미디어 플레이어로 고해상도의 영화와 비디오를 즐기세요."
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/software.html:16
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/multimedia.html:19
+msgid "Lutris"
+msgstr "루트리스"
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/multimedia.html:25
+msgid "Kakaotalk"
+msgstr "카카오톡"
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/multimedia.html:33
+msgid "Blizzard"
+msgstr "블리자드"
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/office.html:5
+msgid "Edit Document"
+msgstr "문서 편집"
+
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/office.html:7
+msgid ""
+"You can create a variety of documents that are compatible with the MS Office "
+"with the LibreOffice."
+msgstr "리브레오피스로 MS오피스와 호환되는 다양한 문서를 만들 수 있습니다."
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/office.html:17
+msgid "Writer"
+msgstr "Writer"
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/office.html:21
+msgid "Calc"
+msgstr "Calc"
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/office.html:29
+msgid "Impress"
+msgstr "Impress"
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/office.html:33
+msgid "Draw"
+msgstr "Draw"
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/software.html:5
+msgid "Software Search"
+msgstr "소프트웨어 검색"
+
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/software.html:7
+msgid "Search and install 30,000 free software in Software Manager."
+msgstr ""
+"소프트웨어 매니저에서 3만 여개의 다양한 무료 소프트웨어를 검색사고 설치할 수 "
+"있습니다."
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/software.html:17
 msgid "Steam"
 msgstr "스팀"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/software.html:20
-msgid "Minecraft"
-msgstr "마인크래프트"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/software.html:24
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/software.html:21
 msgid "Dropbox"
 msgstr "드롭박스"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/software.html:28
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/software.html:29
+msgid "Spotify"
+msgstr "스포티파이"
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/software.html:33
 msgid "Blender"
 msgstr "블렌더"
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/updates.html:1
-msgid "Keep your system up to date"
-msgstr "시스템 업데이트"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/warranty.html:5
+msgid "Warranty"
+msgstr "품질 보증"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/updates.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/warranty.html:7
+msgid "Telecommunications Technology Association(TTA)"
+msgstr "한국정보통신기술협회(TTA)"
+
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/warranty.html:8
 msgid ""
-"Receive fixes and security updates all in one place, for the entire system, "
-"including the software you install."
-msgstr "설치된 소프트웨어를 포함한 전체 시스템의 최신 패치와 보안 업데이트를 한 곳에서 관리합니다."
+"In the test certification organized by the Software Test Certification "
+"Research Institute, it received the first grade of GS certification and was "
+"recognized for its excellent quality."
+msgstr ""
+"소프트웨어시험인증연구소에서 주관한 시험인증에서 GS인증 1등급을 받아 우수한 "
+"품질을 인정받았습니다."
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/video.html:1
-msgid "Watch movies and videos"
-msgstr "영화 및 비디오 보기"
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/warranty.html:10
+msgid "GS Certificates : ISO/IEC 25023, 25041, 25051"
+msgstr "GS 인증시험 : ISO/IEC 25023, 25041, 25051"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/video.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/warranty.html:11
 msgid ""
-"Enjoy a high-definition movie or a video with VLC and the Media Player. All "
-"modern codecs are supported."
-msgstr "최신 코덱을 지원하는 VLC, Celluloid 등의 다양한 미디어 플레이어로 고해상도의 영화나 비디오를 즐겨보세요."
+"Based on international standards, it is a test on functional suitability, "
+"performance efficiency, usability, reliability, security, etc."
+msgstr ""
+"국제표준을 기반으로 기능적합성, 성능효율성, 사용성, 신뢰성, 보안성 등에 대한 "
+"시험"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/video.html:16
-msgid "VLC"
-msgstr "VLC 플레이어"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/video.html:20
-msgid "Media Player"
-msgstr "미디어 플레이어"
-
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/web.html:1
-msgid "Browse the web"
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/web.html:5
+#, fuzzy
+msgid "Browsed the web"
 msgstr "웹 브라우징"
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/web.html:7
+msgid "Use the web quickly and safely with Naver Whale."
+msgstr "네이버 웨일로 빠르고 안전하게 웹을 이용하세요."
+
+#. type: Content of: <div><div><div><div><p>
 #: slideshows/mint/slides/web.html:8
-msgid ""
-"Be fast and safe on the web with Naver Whale. Watch your favorite shows "
-"on Netflix and YouTube."
-msgstr "네이버 웨일로 빠르고 안전하게 웹을 이용하고 좋아하는 동영상을 넷플릭스나 유튜브를 통해서 감상해보세요."
+msgid "There are also a variety of features available from Whale."
+msgstr "웨일에서 제공하는 다양한 기능도 함께 이용할 수 있습니다."
 
-#. type: Content of: <div><div><div><h2>
-#: slideshows/mint/slides/web.html:12
-msgid "Featured software and services"
-msgstr "주요 소프트웨어 및 서비스"
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/web.html:11
+msgid "Try using a variety of web browsers that suit your style."
+msgstr "스타일에 맞는 다양한 웹브라우저를 함께 사용해보세요."
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/web.html:16
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/web.html:21
 msgid "Naver Whale"
 msgstr "네이버 웨일"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/web.html:22
-msgid "Netflix"
-msgstr "넷플릭스"
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/web.html:27
+msgid "Chrome"
+msgstr "크롬"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/web.html:28
-msgid "YouTube"
-msgstr "유튜브"
-
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/welcome.html:1
-msgid "Welcome to HamoniKR"
-msgstr "하모니카에 오신걸 환영합니다."
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/web.html:35
+msgid "Firefox"
+msgstr "파이어폭스"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/welcome.html:8
-msgid ""
-"Welcome and thank you for choosing HamoniKR. This slideshow will show you "
-"around while the system is being installed on your computer."
-msgstr ""
-"이 슬라이드 쇼는 하모니카가 컴퓨터에 설치되는 동안 여러분들에게 하모니카에 대한 설명을 해드릴 겁니다."
+#: slideshows/mint/slides/welcome.html:7
+msgid "Welcome to the HamoniKR"
+msgstr "하모니카에 오신 것을 환영합니다"
 
-#. type: Content of: <div><h1>
-#: slideshows/mint/slides/windows.html:1
+#. type: Content of: <div><div><div><p>
+#: slideshows/mint/slides/welcome.html:10
+msgid "Meet the powerful and new features of the HamoniKR"
+msgstr "하모니카의 강력하고 새로워진 기능을 만나보세요"
+
+#. type: Content of: <div><div><div><h1>
+#: slideshows/mint/slides/windows.html:5
 msgid "Run Windows software"
 msgstr "윈도우용 소프트웨어 실행"
 
-#. type: Content of: <div><div><div><p>
-#: slideshows/mint/slides/windows.html:8
+#. type: Content of: <div><div><div><div><p>
+#: slideshows/mint/slides/windows.html:7
 msgid ""
-"Install Wine and run Windows software in HamoniKR. Or install Virtualbox, "
-"and run Windows itself within HamoniKR."
+"Using Lutris, we support to run SW for Windows such as Blizzard games and "
+"KakaoTalk."
 msgstr ""
-"버추얼 박스를 이용하여 하모니카에서 윈도우를 설치하거나 와인 소프트웨어를 사용하여 윈도우 프로그램을 하모니카에서 실행할 수 있습니다."
+"루트리스를 활용하여 블리자드 게임, 카카오톡 등 윈도우용 SW를 실행할 수 있도"
+"록 지원합니다."
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/windows.html:16
-msgid "Virtualbox"
-msgstr "버추얼 박스"
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/windows.html:17
+#, fuzzy
+msgid "Lollypop"
+msgstr "롤리팝"
 
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/mint/slides/windows.html:20
-msgid "Wine"
-msgstr "와인"
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/windows.html:23
+msgid "Celluloid"
+msgstr "셀룰로이드"
+
+#. type: Content of: <div><div><div><table><tr><td><ul><li><p>
+#: slideshows/mint/slides/windows.html:31
+msgid "VLC"
+msgstr "VLC 플레이어"
+
+#~ msgid "Stay connected"
+#~ msgstr "소셜 네트워킹"
+
+#~ msgid ""
+#~ "Keep in touch with your friends and contacts, by email, IRC or on your "
+#~ "favorite social networks. HamoniKR provides all you need to interact with "
+#~ "Skype, WhatsApp, Facebook, Twitter, Slack, Telegram, Viber, Discord and "
+#~ "many other networks."
+#~ msgstr ""
+#~ "자주 사용하시는 소셜 네트워크로 친구들과 연락해보세요. 하모니카는 스카이"
+#~ "프, 왓츠앱, 페이스북, 트위터, 슬랙, 텔레그램 등 이외에도 많은 서비스들을 "
+#~ "사용하시는데 불편함이 없도록 모든 환경을 제공해 드리고 있습니다."
+
+#~ msgid "Featured software"
+#~ msgstr "주요 소프트웨어"
+
+#~ msgid "WhatsApp"
+#~ msgstr "왓츠앱"
+
+#~ msgid "Slack"
+#~ msgstr "슬랙"
+
+#~ msgid "Customize your desktop"
+#~ msgstr "데스크톱 개인화"
+
+#~ msgid ""
+#~ "Make yourself at home and modify any aspect of your desktop. Choose from "
+#~ "a large variety of themes, icons and backgrounds. HamoniKR is open and "
+#~ "easy to customize."
+#~ msgstr ""
+#~ "하모니카에서 다양한 테마와 아이콘, 배경화면을 선택하여 자신만의 데스크톱"
+#~ "을 꾸며보세요."
+
+#~ msgid "Find help"
+#~ msgstr "도움 받기"
+
+#~ msgid ""
+#~ "If you're curious about something or if you're facing a problem, simply "
+#~ "ask around. HamoniKR is one of the most popular desktop Linux "
+#~ "distributions and used by millions of people. It comes with a user guide, "
+#~ "a community website, a collection of tutorials, active forums and chat "
+#~ "rooms and one of the most dynamic communities on the Internet."
+#~ msgstr ""
+#~ "궁금한게 있거나 문제가 있을 때 언제든지 커뮤니티에 방문해서 물어보세요. 하"
+#~ "모니카는 리눅스를 이용하는 모든 사람들을 위한 커뮤니티 웹사이트와 사용자 "
+#~ "가이드를 제공합니다."
+
+#~ msgid "Listen to music"
+#~ msgstr "음악 듣기"
+
+#~ msgid "Enjoy your music, listen to podcasts and online radios."
+#~ msgstr ""
+#~ "음악을 듣고 즐겨보세요. 하모니카에서는 롤리팝이라는 새로운 음악 플레이어"
+#~ "를 제공합니다."
+
+#~ msgid "Rhythmbox"
+#~ msgstr "리듬박스"
+
+#~ msgid "Be productive"
+#~ msgstr "높은 생산성"
+
+#~ msgid ""
+#~ "Use LibreOffice to create professional documents, spreadsheets and "
+#~ "presentations that are fully compatible with Microsoft Office. Share "
+#~ "printers or access them remotely."
+#~ msgstr ""
+#~ "리브레 오피스로 마이크로소프트 오피스와 완벽히 호환되는 다양한 문서들을 작"
+#~ "성하고 공유해보세요."
+
+#~ msgid "LibreOffice Writer"
+#~ msgstr "리브레오피스 라이터"
+
+#~ msgid "LibreOffice Calc"
+#~ msgstr "리브레오피스 칼크"
+
+#~ msgid "LibreOffice Impress"
+#~ msgstr "리브레오피스 임프레스"
+
+#~ msgid "LibreOffice Draw"
+#~ msgstr "리브레오피스 드로우"
+
+#~ msgid "LibreOffice Base"
+#~ msgstr "리브레오피스 베이스"
+
+#~ msgid "Manage your photos"
+#~ msgstr "사진 관리"
+
+#~ msgid ""
+#~ "Organize, enjoy and share your photos. Export your albums to share them "
+#~ "with friends and family."
+#~ msgstr "하모니카에서 다양한 이미지를 활용하여 편집을 하고 공유해보세요."
+
+#~ msgid "Pix"
+#~ msgstr "픽스"
+
+#~ msgid "Gimp"
+#~ msgstr "김프"
+
+#~ msgid "Inkscape"
+#~ msgstr "잉크스케이프"
+
+#~ msgid "Install software"
+#~ msgstr "소프트웨어 설치"
+
+#~ msgid ""
+#~ "Browse through 30,000 free applications from the Software Manager. Enjoy "
+#~ "screenshots and user reviews. Install software with one click of the "
+#~ "mouse."
+#~ msgstr ""
+#~ "소프트웨어 매니저에서 3만개의 다양한 무료 소프트웨어를 쉽게 설치하실 수 있"
+#~ "습니다. 다양한 소프트웨어를 설치하고 실행해보세요."
+
+#~ msgid "Minecraft"
+#~ msgstr "마인크래프트"
+
+#~ msgid "Keep your system up to date"
+#~ msgstr "시스템 업데이트"
+
+#~ msgid ""
+#~ "Receive fixes and security updates all in one place, for the entire "
+#~ "system, including the software you install."
+#~ msgstr ""
+#~ "설치된 소프트웨어를 포함한 전체 시스템의 최신 패치와 보안 업데이트를 한 곳"
+#~ "에서 관리합니다."
+
+#~ msgid "Watch movies and videos"
+#~ msgstr "영화 및 비디오 보기"
+
+#~ msgid "Media Player"
+#~ msgstr "미디어 플레이어"
+
+#~ msgid ""
+#~ "Be fast and safe on the web with Naver Whale. Watch your favorite shows "
+#~ "on Netflix and YouTube."
+#~ msgstr ""
+#~ "네이버 웨일로 빠르고 안전하게 웹을 이용하고 좋아하는 동영상을 넷플릭스나 "
+#~ "유튜브를 통해서 감상해보세요."
+
+#~ msgid "Featured software and services"
+#~ msgstr "주요 소프트웨어 및 서비스"
+
+#~ msgid "Netflix"
+#~ msgstr "넷플릭스"
+
+#~ msgid "YouTube"
+#~ msgstr "유튜브"
+
+#~ msgid ""
+#~ "Welcome and thank you for choosing HamoniKR. This slideshow will show you "
+#~ "around while the system is being installed on your computer."
+#~ msgstr ""
+#~ "이 슬라이드 쇼는 하모니카가 컴퓨터에 설치되는 동안 여러분들에게 하모니카"
+#~ "에 대한 설명을 해드릴 겁니다."
+
+#~ msgid ""
+#~ "Install Wine and run Windows software in HamoniKR. Or install Virtualbox, "
+#~ "and run Windows itself within HamoniKR."
+#~ msgstr ""
+#~ "버추얼 박스를 이용하여 하모니카에서 윈도우를 설치하거나 와인 소프트웨어를 "
+#~ "사용하여 윈도우 프로그램을 하모니카에서 실행할 수 있습니다."
+
+#~ msgid "Virtualbox"
+#~ msgstr "버추얼 박스"
+
+#~ msgid "Wine"
+#~ msgstr "와인"
