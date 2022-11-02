@@ -244,7 +244,6 @@ msgstr ""
 
 #. type: Content of: <div><div><div><h1>
 #: slideshows/mint/slides/web.html:5
-#, fuzzy
 msgid "Browsed the web"
 msgstr "웹 브라우징"
 
@@ -304,7 +303,6 @@ msgstr ""
 
 #. type: Content of: <div><div><div><table><tr><td><ul><li><p>
 #: slideshows/mint/slides/windows.html:17
-#, fuzzy
 msgid "Lollypop"
 msgstr "롤리팝"
 
