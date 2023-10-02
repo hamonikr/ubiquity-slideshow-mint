@@ -1,4 +1,6 @@
-# ubiquity-slideshow-mint-70mint49-hamonikr1
+# ubiquity-slideshow-mint
+
+설치화면에서 보이는 슬라이드 쇼 프로그램
 
 ## 테스트
 1. test 폴더 안에 있는 패키지 설치
