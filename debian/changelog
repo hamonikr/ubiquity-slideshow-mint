@@ -1,3 +1,11 @@
+ubiquity-slideshow-mint (70mint53+hamonikr1) kumkang; urgency=medium
+
+  [Kevin Kim]
+  * Release for HamoniKR 7.0
+   - Fixed test script with webkit2
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 02 Oct 2023 23:06:20 +0900
+
 ubiquity-slideshow-mint (70mint49+hamonikr5) taebaek; urgency=medium
 
   [Kevin Kim]
