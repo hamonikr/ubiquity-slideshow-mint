@@ -1,3 +1,11 @@
+ubiquity-slideshow-mint (70mint53+hamonikr2) kumkang; urgency=medium
+
+  [Kevin Kim]
+  * Fixed mis spelling
+   - https://hamonikr.org/hamoni_board/132003
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 10 Jan 2024 00:20:50 +0900
+
 ubiquity-slideshow-mint (70mint53+hamonikr1) kumkang; urgency=medium
 
   [Kevin Kim]
