@@ -1,3 +1,10 @@
+ubiquity-slideshow-mint (70mint58+h1) paektu; urgency=medium
+
+  * Update from latest upstream
+   - Changed as webkit2 4.1
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 02 Aug 2024 23:47:57 +0900
+
 ubiquity-slideshow-mint (70mint53+hamonikr2) kumkang; urgency=medium
 
   [Kevin Kim]
