@@ -1,3 +1,9 @@
+ubiquity-slideshow-mint (70mint58+h2) paektu; urgency=medium
+
+  * Changed Font
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 25 Sep 2024 14:07:42 +0900
+
 ubiquity-slideshow-mint (70mint58+h1) paektu; urgency=medium
 
   * Update from latest upstream
